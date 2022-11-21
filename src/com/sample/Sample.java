@@ -15,6 +15,10 @@ public class Sample {
 
 		System.out.println("Prince");
 	}
+	public void task4() {
+		System.out.println("Minister");
+	}
+	
 
 	
 
@@ -24,8 +28,7 @@ public static void main(String[] args) {
 	s.task2();
 	s.task();
 	s.task3();
-
-	
+	s.task4();
 
 }
 }
